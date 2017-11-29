@@ -1,0 +1,8 @@
+Write a function named minDistance/MinDistance that returns the smallest distance between two factors of a number,the input will be number greater than one.
+
+example:
+
+number=13013 has factors 
+[1,7,11,13,13013]
+
+minDistance(number) return 2 //13-11
