@@ -1,0 +1,21 @@
+Knight vs Rook
+
+If you are not familiar with chess game you can learn more Here .
+
+Here is the chess board:
+
+alt text
+
+You put a Knight and a Rook in the board.
+
+Complete the method that tell us which one can capture the other one.
+
+public static string KnightVsRook(object[] knightPosition, object[]rookPosition)
+        {
+        // Three possible outputs are "Knight", "Rook" and "None".
+        }
+You are provided with two object array; each contains an integer (first item) and a string (second item) to show the position of the pieces in the chess board.
+
+object[] rookPosition = {4, "C"};
+object[] knightPosition = {6, "D"};
+Check the test cases and Happy coding :)
