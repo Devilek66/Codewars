@@ -1,0 +1,5 @@
+Count or calculate how many times the digit '0' appears in the integers from 1 to 10n-1 inclusive.
+
+For example, when n is 4, return the number of times the digit '0' appears from 1 to 9999.
+
+For n <= 0, return zero.
